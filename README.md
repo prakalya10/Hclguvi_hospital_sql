@@ -1,3 +1,10 @@
+<img width="1161" height="651" alt="image" src="https://github.com/user-attachments/assets/bd611536-5af3-44b1-998e-7cf9dd302850" />
+<img width="1162" height="652" alt="image" src="https://github.com/user-attachments/assets/237ebd55-c85e-4e8b-b4c3-19afae564b88" />
+<img width="1155" height="647" alt="image" src="https://github.com/user-attachments/assets/9b4fb053-482d-4448-88be-7eda028ce108" />
+
+
+
+
 # Hclguvi_hospital_sql
 SQL-based hospital analytics project built for Hackathon Carnival 2026. Designed a relational healthcare database to analyze admissions, resource utilization, billing, and patient outcomes using advanced SQL queries for data-driven hospital decision-making.
 # Hospital Analytics System (SQL Project)
